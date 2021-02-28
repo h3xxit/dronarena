@@ -33,7 +33,8 @@ Documentatie:
     utilizatorului de a iesi din joc.
     
     *Optiuni multiplayer:
-        Jocul poate fi jucat si in varianta local multiplayer, al doilea player utilizand un gamepad pentru controlul navei sale.
+        Jocul poate fi jucat si in varianta local multiplayer, al doilea player utilizand un gamepad
+        pentru controlul navei sale.
     *Tehnologii si limbaje de programare:
           -Unity 2D engine
           -C#
