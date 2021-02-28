@@ -108,6 +108,9 @@ public class Stats : MonoBehaviour
         if (hp <= 0)
         {
             hp = 0;
+            if(!isPlayer)
+                foreach (PlayerMove player in MecanicsManager.instance.players)
+                    player.Me.exp += 1;
             die();
         }
     }

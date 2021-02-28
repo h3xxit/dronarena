@@ -145,8 +145,6 @@ public class MapManager : MonoBehaviour
 
     public void UpdateEnemyStatus()
     {
-        foreach (PlayerMove player in MecanicsManager.instance.players)
-            player.Me.exp += 1;
         nrOfEnemies--;
         if(nrOfEnemies <= 0)
         {
