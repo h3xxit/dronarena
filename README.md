@@ -51,7 +51,7 @@ Documentatie:
           -Fonturi:
             ->Doomed by Buuble Tea
             ->PixelMix by Andrew Tyler
-    *Multumiri special catre:
+    *Multumiri speciale pentru:
           -Sapphire Group: CristeaLuca, Chirilă Laura, Sarca Vlad
           -Mentor: Galiş Fabian
           -Toti cei implicati in acest proiect
