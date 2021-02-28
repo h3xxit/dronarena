@@ -1,4 +1,4 @@
-Daca esti interesat, incearca si versiunea web a jocului: https://voltzerdev.itch.io/dronarena
+Pentru a juca online sau a descarca jocul, accesati: https://voltzerdev.itch.io/dronarena
 __________________________________________________________________________
 Documentatie:
 
